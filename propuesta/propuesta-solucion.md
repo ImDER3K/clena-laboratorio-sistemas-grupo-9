@@ -1,27 +1,16 @@
 # Propuesta de solución
 
 # ¿Qué se propone?
-
 Un nuevo sistema de consulta para la Biblioteca del CLENA, con una interfaz moderna, sencilla y guiada, que reemplace o complemente el software actual. Permitiría buscar el material de la biblioteca de forma clara, con instrucciones en pantalla y resultados fáciles de entender, sin que el usuario necesite ayuda constante del personal.
-
 # ¿Para quién?
-
 Para los visitantes, estudiantes e investigadores que consultan el material de la biblioteca (usuarios directos), para el personal que los atiende (responsables del proceso) y para los administradores del CLENA que gestionan el sistema.
-
 # ¿Qué problema resuelve?
-
 Resuelve la dificultad de los usuarios para consultar el material de la biblioteca, causada por un software antiguo y poco intuitivo. Al hacer la consulta más simple, los usuarios pierden menos tiempo, dependen menos del personal y aprovechan mejor los recursos disponibles.
-
 # ¿Cómo funcionaría?
-
 El usuario abriría el sistema desde un computador de la biblioteca o desde su celular. Encontraría un buscador simple donde escribe el título, autor o tema que le interesa. El sistema mostraría los resultados con información clara (nombre, tipo de material y ubicación en la biblioteca) y ofrecería ayudas visuales y mensajes guiados para quien lo usa por primera vez. El personal podría registrar y actualizar el material desde un panel sencillo de administración.
-
 # ¿Qué tecnología podría utilizarse?
-
 Una aplicación web de consulta, con una base de datos que almacene la información del material y un sistema de búsqueda. Se podrían agregar códigos QR en los equipos y en la biblioteca que lleven a una guía rápida de uso, y, como mejora futura, un asistente con inteligencia artificial que responda preguntas de los usuarios.
-
 **Opciones posibles:** aplicación web, aplicación móvil, sistema de información, base de datos, código QR, sistema de búsqueda, inteligencia artificial, IoT, digitalización u otro mecanismo. No es necesario desarrollarla.
-
 ## Flujo básico de uso
 **El usuario accede al sistema:** desde un equipo de la biblioteca o desde su celular, escaneando un código QR visible en la sala.
 **Busca el material:** escribe un título, autor o tema, y el sistema muestra resultados claros con su ubicación en la biblioteca.
