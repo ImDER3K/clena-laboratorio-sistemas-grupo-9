@@ -12,8 +12,6 @@ Situación: Durante la visita se observó que los usuarios deben utilizar un sof
 
 Problema: El software es antiguo y poco intuitivo, por lo que los usuarios no comprenden cómo usarlo sin ayuda.
 
-Evidencia: [Completar: fotografías de la pantalla o del equipo, video corto del uso del software y notas de lo que se observó o conversó con el personal].
-
 Impacto: Los usuarios pierden tiempo, pueden desistir de la consulta, no aprovechan los recursos de la biblioteca y el personal debe dedicar tiempo a explicar el uso una y otra vez.
 
 Oportunidad tecnológica: Una interfaz moderna e intuitiva para consultar el catálogo, con búsqueda sencilla, instrucciones claras en pantalla y acceso desde computador o celular.
@@ -28,8 +26,6 @@ Situación: Cuando el usuario no logra usar el software, recurre al personal par
 
 Problema: Las consultas dependen de que haya alguien disponible que conozca el sistema, y no existe una forma de que el usuario sea autónomo.
 
-Evidencia: [Completar: observación de cuántas veces se pidió ayuda y cuánto tardó la atención].
-
 Impacto: Se sobrecarga al personal, se generan esperas y se reduce el tiempo para otras tareas de la biblioteca.
 
 Oportunidad tecnológica: Un sistema de búsqueda de autoservicio con ayudas guiadas, que reduzca la necesidad de acompañamiento.
@@ -43,8 +39,6 @@ Usuario: Visitantes y usuarios nuevos.
 Situación: Quien llega por primera vez no encuentra instrucciones claras sobre cómo consultar el catálogo.
 
 Problema: No hay señalización ni guías visibles que expliquen los pasos para buscar material.
-
-Evidencia: [Completar: fotografías de la señalización o de la ausencia de ella].
 
 Impacto: Los usuarios nuevos se sienten perdidos y es menos probable que vuelvan a usar la biblioteca.
 
