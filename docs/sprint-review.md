@@ -23,10 +23,6 @@ problemas potenciales identificados
 problema seleccionado y propuesta de solucion redactados
 
 
-| Tarea | Estado | Enlace (Issue/PR) |
-|---|---|---|
-| | | |
-
 ## Propuesta presentada
 Actualizar y modernizar el software de consulta en la biblioteca 
 mas amigable con el usuario para que los usuarios encuentren la informacion 
