@@ -3,7 +3,7 @@ Identificación de problemas y oportunidades de solución tecnológica Asignatur
 
 Introducción a la Ingeniería de Sistemas y Computación
 
-Integrantes Shadia castro Dreke Perez Emiliano Harvey
+Integrantes Shadia castro Derek Perez Emiliano Harvey
 
 Espacio seleccionado Biblioteca
 
