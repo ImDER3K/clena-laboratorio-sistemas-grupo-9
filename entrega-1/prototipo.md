@@ -4,7 +4,7 @@
 
 | Dato | Valor |
 |---|---|
-| Enlace de Figma | **Pendiente** (Derek) |
+| Enlace de Figma | https://www.figma.com/design/4jisBFrF7Qm6ncdQLkaqoT/Consulta-F%C3%A1cil-%C2%B7-Biblioteca-del-CLENA-%C2%B7-Derek-P%C3%A9rez?node-id=0-1&t=fv0ziFYpAST7vMhe-1 |
 | Permiso | Comentario para el equipo de Backend y para `djromero@uninorte.edu.co` |
 | Pantallas mínimas | 8, con versión de celular para las del público |
 | Modo Prototype | Con enlaces entre pantallas |
