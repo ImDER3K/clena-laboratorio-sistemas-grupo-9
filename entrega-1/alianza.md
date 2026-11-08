@@ -8,7 +8,7 @@ Corte: domingo 8 de noviembre de 2026.
 - Tablero GitHub Projects de Backend: https://github.com/users/ByRAPG/projects/1
 - Validación del G9: Emiliano Harvey comentó «Aprobado por el grupo 9» en los 21 Issues el 8 de noviembre de 2026.
 - Priorización: Humberto Llinás (PO de Backend) y Emiliano Harvey (PO del G9). Las historias «Debe tener» son 18, y el Sprint 1 (9 al 13 de nov) cubre 58 puntos.
-- **Captura del tablero: pendiente (Emiliano).** Hoy las 21 historias están en la columna Backlog; el Sprint Planning del 8 de noviembre las mueve a To Do.
+- **Captura del tablero: (Emiliano).** Hoy las 21 historias están en la columna Backlog; el Sprint Planning del 8 de noviembre las mueve a To Do.
 
 ## 2. Sprint Review
 
