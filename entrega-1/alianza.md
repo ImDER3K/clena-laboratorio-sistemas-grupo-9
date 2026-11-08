@@ -32,7 +32,7 @@ Se necesitan al menos **5** Issues con la etiqueta `feedback-cliente`; cada uno 
 | 3 | Derek Pérez | Por elegir (sugerencia: HU-05 QR o HU-06 disponibilidad) | — | **Pendiente (Derek)** |
 | 4 | Derek Pérez | Por elegir | — | **Pendiente (Derek)** |
 | 5 | Emiliano Harvey | HU-09 | [#52](https://github.com/ByRAPG/clena-catalogo-biblioteca/issues/52) | Hecho |
-| 6 | Emiliano Harvey | HU-12 | — | Hecho |
+| 6 | Emiliano Harvey | HU-12 | [#53](https://github.com/ByRAPG/clena-catalogo-biblioteca/issues/53) | Hecho |
 
 Los pendientes se crean con la plantilla «Feedback del cliente» del repositorio de Backend, después de probar de verdad lo que Backend muestre en la Review del 10 de noviembre. Se describe el problema y lo esperado, sin culpar a nadie.
 
