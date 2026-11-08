@@ -76,4 +76,6 @@ Estados del tablero de Backend (To Do, In Progress, In Review, Done), leídos el
 | Acta de la Review | Shadia Castro | mié 11 nov |
 | Pedir materiales al CLENA | Shadia Castro | lun 9 nov |
 | Actualizar el estado de avance | Shadia Castro | mié 11 nov |
-<img width="990" height="313" alt="image" src="https://github.com/user-attachments/assets/3a64be12-2eed-4d87-aebc-c9a9df46b520" />
+Tabla
+<img width="1365" height="608" alt="image" src="https://github.com/user-attachments/assets/b8c42e37-1745-4af2-9ccf-7d948e57fff4" />
+
