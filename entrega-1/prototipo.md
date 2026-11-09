@@ -1,6 +1,6 @@
 # Prototipo en Figma
 
-> **Estado: pendiente. Responsable: Derek Pérez. Plazo acordado con Backend: lunes 9 de noviembre de 2026.**
+> **Estado: Completado. Responsable: Derek Pérez. Plazo acordado con Backend: lunes 9 de noviembre de 2026.**
 
 | Dato | Valor |
 |---|---|
