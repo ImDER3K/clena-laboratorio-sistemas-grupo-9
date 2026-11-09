@@ -31,16 +31,16 @@ El flujo completo mínimo: **escanear el QR → buscar «cien años sole» → v
 
 ## Lista de accesibilidad (obligatoria en P2)
 
-- [ ] Letra de mínimo 16 px (Backend usa 18 px para el texto principal en HU-04).
-- [ ] Buen contraste (WCAG AA).
-- [ ] Botones grandes.
-- [ ] Etiquetas visibles en todos los formularios.
-- [ ] Estado de disponibilidad con texto, no solo con color.
-- [ ] Versión de celular de 360 px de ancho sin elementos cortados.
+- [x] Letra de mínimo 16 px (Backend usa 18 px para el texto principal en HU-04).
+- [x] Buen contraste (WCAG AA).
+- [x] Botones grandes.
+- [x] Etiquetas visibles en todos los formularios.
+- [x] Estado de disponibilidad con texto, no solo con color.
+- [x] Versión de celular de 360 px de ancho sin elementos cortados.
 
 ## Capturas
 
-_Pendiente: se agregan cuando exista el Figma, en `entrega-1/capturas/` o enlazadas desde aquí._
+En `entrega-1/capturas/`._
 
 ## Comparación con lo que ya construyó Backend
 
