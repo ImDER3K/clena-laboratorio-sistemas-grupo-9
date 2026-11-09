@@ -51,7 +51,7 @@ Equipo de Backend aliado: Rafael Potes (Scrum Master), Humberto Llinás (Product
 | Historias HU-04, 05, 06, 14, 16, 17 y 21 | Derek Pérez | Registradas en Backend |
 | Historias HU-09, 10, 11, 12, 18, 19 y 20 | Emiliano Harvey | Registradas en Backend |
 | Validación del backlog («Aprobado por el grupo 9» en cada Issue) | Emiliano Harvey | Hecho el 8 nov |
-| Prototipo en Figma (mín. 8 pantallas, versión celular) | Derek Pérez | **Pendiente** |
+| Prototipo en Figma (mín. 8 pantallas, versión celular) | Derek Pérez | Hecho el 8 de nov |
 | Solicitud de materiales al CLENA | Shadia Castro | **Pendiente** |
 | Issues `feedback-cliente` | Shadia 2 · Derek 2 · Emiliano 2 | Ver [`alianza.md`](alianza.md) |
 | Captura del tablero y asistencia a la Sprint Review | Emiliano Harvey | **Pendiente** |
