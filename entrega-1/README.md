@@ -18,7 +18,7 @@ El problema que trabajamos viene de la visita del 26 de septiembre: los usuarios
 | Product Backlog (Issues `historia-usuario`) | https://github.com/ByRAPG/clena-catalogo-biblioteca/issues?q=label%3Ahistoria-usuario |
 | Tablero GitHub Projects de Backend | https://github.com/users/ByRAPG/projects/1 |
 | Issues de retroalimentación (`feedback-cliente`) | https://github.com/ByRAPG/clena-catalogo-biblioteca/issues?q=label%3Afeedback-cliente |
-| Prototipo en Figma | **Pendiente: Derek Pérez** (ver [`prototipo.md`](prototipo.md)) |
+| Prototipo en Figma | (ver [`prototipo.md`](prototipo.md)) |
 | Aplicación desplegada | Aún no existe (despliegue con URL pública planeado para el Sprint 2 de Backend). Hoy corre en local con `docker compose up` |
 
 ## Equipo
